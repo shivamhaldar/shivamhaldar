@@ -58,7 +58,11 @@
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=shivamhaldar&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=shivamhaldar&show_icons=true&count_private=true&hide_border=true" align="center" />
+</div>  
+
+#
 
 <div align="center">
             <a href="https://paypal.me/paypalshivamm" target="_blank" style="display: inline-block;">

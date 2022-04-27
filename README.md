@@ -61,10 +61,15 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=shivamhaldar&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/shivamhaldar" target="_blank" style="display: inline-block; padding: 10px;">
+            <a href="https://paypal.me/paypalshivamm" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 
+                    align="center"
+                />
+            </a>
+            <a href="https://www.buymeacoffee.com/shivamhaldar" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
                     align="center"
                 />
             </a></div>
-

@@ -1,7 +1,7 @@
 
 # Hello World! , I'm Shivam 👋
  
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=shivamhaldar.visitor-badge)
+[![visitor badge](https://visitor-badge.glitch.me/badge?page_id=shivamhaldar.visitor-badge)]
 
 ## 🚀 About Me
 

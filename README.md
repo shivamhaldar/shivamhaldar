@@ -61,8 +61,7 @@
 ## Github Stats  
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=shivamhaldar&show_icons=true&count_private=true&hide_border=true" align="center" />
- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=TusharArya&theme=react" />
- <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharArya&layout=compact&theme=react" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamhaldar&theme=react" />
 </div>  
 
 #

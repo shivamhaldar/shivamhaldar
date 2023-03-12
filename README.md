@@ -29,6 +29,9 @@
 😄 Proactive in Nature...
 
 ⚡️ Update your codes with new ideas... 
+
+<img align="center" alt="GIF" src="https://github.com/shivamhaldar/shivamhaldar/blob/main/code.gif?raw=true" width="500" height="320" />
+
 ## Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://shivamhaldar.github.io/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivamhaldar/)

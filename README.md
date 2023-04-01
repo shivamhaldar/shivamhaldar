@@ -13,6 +13,8 @@
 <a href="https://www.linkedin.com/in/shivamhaldar/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<script src="https://unpkg.com/@mail3/mail3-me"></script>
+    <mail3-me to="shivam.haldar@consultant.com" />
  
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=shivamhaldar.visitor-badge) 
 

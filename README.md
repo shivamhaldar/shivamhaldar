@@ -77,7 +77,7 @@
 ## Github Stats  
 <div align="center" >
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamhaldar&hide_progress=true" align="center"/>
- <img src="https://github-readme-stats.vercel.app/api?username=shivamhaldar&show_icons=true&count_private=true&hide_border=true" align="center" width="100%" />
+ <img src="https://github-readme-stats.vercel.app/api?username=shivamhaldar&show_icons=true&count_private=true&hide_border=true" align="center" width="50%" margin="0% 20%" />
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamhaldar" align="center" />
 </div>  
 

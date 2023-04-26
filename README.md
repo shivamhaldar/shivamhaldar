@@ -18,6 +18,7 @@
 </a>
  
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=shivamhaldar.visitor-badge) 
+![Visitor Badge](https://visitor-badge.feriirawann.repl.co?username=shivamhaldar&repo=YOUR_REPOSITORY&style=STYLE_NAME)
 
 ## 🚀 About Me
 

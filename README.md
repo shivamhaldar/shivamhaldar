@@ -17,7 +17,7 @@
   <img align="left" alt="Shivam's Mail" width="22px" src="https://github.com/shivamhaldar/shivamhaldar/blob/main/mail.png"/>
 </a>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshivamhaldar&count_bg=%230090FF&title_bg=%23333333&icon=&icon_color=%23E7E7E7&title=Daily&edge_flat=false)]
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshivamhaldar&count_bg=%230090FF&title_bg=%23333333&icon=&icon_color=%23E7E7E7&title=Daily&edge_flat=false)
 
 ## 🚀 About Me
 

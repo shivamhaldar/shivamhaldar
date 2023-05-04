@@ -17,7 +17,7 @@
   <img align="left" alt="Shivam's Mail" width="22px" src="https://github.com/shivamhaldar/shivamhaldar/blob/main/mail.png"/>
 </a>
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshivamhaldar&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Daily-Viewer&edge_flat=false)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshivamhaldar&count_bg=%230090FF&title_bg=%23333333&icon=&icon_color=%23E7E7E7&title=Daily&edge_flat=false)]
 
 ## 🚀 About Me
 
@@ -40,7 +40,7 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivamhaldar/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shivam_0088)
 [![instagram](https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shivam_0088)
-<a href="https://shivamhaldar.netlify.app/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshivamhaldar&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%16719360&title=Total-View&edge_flat=false"/></a>
+<a href="https://shivamhaldar.netlify.app/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshivamhaldar&count_bg=%23009C01&title_bg=%23333333&icon=&icon_color=%23E7E7E7&title=Total&edge_flat=false"/></a>
 
 
 ## Frontend

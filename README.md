@@ -40,7 +40,7 @@
 <img align="center" alt="GIF" src="https://github.com/shivamhaldar/shivamhaldar/blob/main/code.gif?raw=true" width="500" height="320" />
 -->
 
-## Links
+## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://shivamhaldar.github.io/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivamhaldar/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shivam_0088)
@@ -48,7 +48,7 @@
 <a href="https://shivamhaldar.netlify.app/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshivamhaldar&count_bg=%23009C01&title_bg=%23333333&icon=&icon_color=%23E7E7E7&title=Total&edge_flat=false"/></a>
 
 
-## Frontend
+## ⚙️ Frontend
 <div align="center">   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
@@ -70,20 +70,20 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" />  
 </div>
 
-## Backend
+## 🛠️ Backend
 <div align="center">  
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" />    
 </div>
 
-## Badges
+## 🔥 Badges
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
-## Github Stats  
+## 📃 Github Stats  
 <div align="center" >
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamhaldar&hide_progress=true" align="center"/>
  <img src="https://github-readme-stats.vercel.app/api?username=shivamhaldar&show_icons=true&count_private=true&hide_border=true" align="center"/>

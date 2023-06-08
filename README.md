@@ -33,7 +33,12 @@
 
 ⚡️ Update your codes with new ideas... 
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Live stats
+![GitHub metrics](https://metrics.lecoq.io/shivamhaldar) 
+
+<!--
 <img align="center" alt="GIF" src="https://github.com/shivamhaldar/shivamhaldar/blob/main/code.gif?raw=true" width="500" height="320" />
+-->
 
 ## Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://shivamhaldar.github.io/)

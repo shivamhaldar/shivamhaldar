@@ -97,10 +97,11 @@
 </div>
 
 
-
+<!--
 <p align="center">
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 </p>
+-->
 <img margin="auto" width="100%" src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 
 

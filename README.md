@@ -1,5 +1,5 @@
 
-# Hello World! , I'm Shivam <img src="https://github.com/shivamhaldar/shivamhaldar/blob/main/Hi.gif" width="29px">
+# Hello World! , I'm Shivam <img src="https://github.com/shivamhaldar/shivamhaldar/blob/master/Hi.gif" width="29px">
 
  <a href="https://www.instagram.com/shivam_0088/">
   <img align="left" alt="Shiavm's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -88,22 +88,23 @@
 #
 
 <div align="center">
-            <a href="https://paypal.me/paypalshivamm" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 
-                    align="center"
-                />
-            </a>
-            <a href="https://www.buymeacoffee.com/shivamhaldar" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
+<a href="https://paypal.me/paypalshivamm" target="_blank" style="display: inline-block;">
+<img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" align="center" />
+</a>
+<a href="https://www.buymeacoffee.com/shivamhaldar" target="_blank" style="display: inline-block;">
+<img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square"  align="center"/>
+</a>
+</div>
 
 
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
- </p>
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+</p>
 <img margin="auto" width="100%" src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
+
+
+<div align="center">
+<a href="https://shivamhaldar.github.io">
+<img src="https://github.com/shivamhaldar/shivamhaldar/blob/main/grid-snake.svg" alt="snake" /></a>
+</div>

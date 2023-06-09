@@ -1,5 +1,5 @@
 
-# 🌍 Hello World! , I'm Shivam <img src="https://github.com/shivamhaldar/shivamhaldar/blob/main/Hi.gif" width="29px">
+# 🌍 Hello World! , I'm Shivam <img src="https://github.com/shivamhaldar/shivamhaldar/blob/main/image/Hi.gif" width="29px">
 
  <a href="https://www.instagram.com/shivam_0088/">
   <img align="left" alt="Shiavm's Instagram" width="24px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -14,7 +14,7 @@
   <img align="left" alt="Shivam's LinkedIN" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="mailto:shivam.haldar@consultant.com">
-  <img align="left" alt="Shivam's Mail" width="24px" src="https://github.com/shivamhaldar/shivamhaldar/blob/main/mail.png"/>
+  <img align="left" alt="Shivam's Mail" width="24px" src="https://github.com/shivamhaldar/shivamhaldar/blob/main/image/mail.png"/>
 </a>
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshivamhaldar&count_bg=%230090FF&title_bg=%23333333&icon=&icon_color=%23E7E7E7&title=Daily&edge_flat=false)
@@ -73,7 +73,7 @@
 ## 🛠️ Backend
 <div align="center">  
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40" />  
-<img style="margin: 15px" src="https://github.com/shivamhaldar/shivamhaldar/blob/main/php.svg" alt="PHP" height="40" />  
+<img style="margin: 15px" src="https://github.com/shivamhaldar/shivamhaldar/blob/main/image/php.svg" alt="PHP" height="40" />  
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="40" />    
 </div>
 
@@ -112,5 +112,5 @@
 
 <div align="center">
 <a href="https://shivamhaldar.github.io">
-<img src="https://github.com/shivamhaldar/shivamhaldar/blob/main/grid-snake.svg" alt="snake" /></a>
+<img src="https://github.com/shivamhaldar/shivamhaldar/blob/main/image/grid-snake.svg" alt="snake" /></a>
 </div>

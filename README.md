@@ -2,19 +2,19 @@
 # 🌍 Hello World! , I'm Shivam <img src="https://github.com/shivamhaldar/shivamhaldar/blob/main/Hi.gif" width="29px">
 
  <a href="https://www.instagram.com/shivam_0088/">
-  <img align="left" alt="Shiavm's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Shiavm's Instagram" width="24px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://discord.gg/qtjjmRzuYm">
-  <img align="left" alt="Shivam's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Shivam's Discord" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/shivam_0088">
-  <img align="left" alt="Shivam Haldar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Shivam Haldar | Twitter" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/shivamhaldar/">
-  <img align="left" alt="Shivam's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Shivam's LinkedIN" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="mailto:shivam.haldar@consultant.com">
-  <img align="left" alt="Shivam's Mail" width="22px" src="https://github.com/shivamhaldar/shivamhaldar/blob/main/mail.png"/>
+  <img align="left" alt="Shivam's Mail" width="24px" src="https://github.com/shivamhaldar/shivamhaldar/blob/main/mail.png"/>
 </a>
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshivamhaldar&count_bg=%230090FF&title_bg=%23333333&icon=&icon_color=%23E7E7E7&title=Daily&edge_flat=false)

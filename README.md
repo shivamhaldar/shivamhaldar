@@ -1,20 +1,20 @@
 
 # 🌍 Hello World! , I'm Shivam <img src="https://github.com/shivamhaldar/shivamhaldar/blob/main/image/Hi.gif" width="29px">
 
- <a href="https://www.instagram.com/shivam_0088/">
-  <img align="left" alt="Shiavm's Instagram" width="24px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+<a href="https://www.instagram.com/shivam_0088/">
+<img align="left" alt="Shivam's Instagram" width="24px" src="https://github.com/shivamhaldar/shivamhaldar/blob/main/image/instagram.png" />
 </a>
 <a href="https://discord.gg/qtjjmRzuYm">
-  <img align="left" alt="Shivam's Discord" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+<img align="left" alt="Shivam's Discord" width="24px" src="https://github.com/shivamhaldar/shivamhaldar/blob/main/image/discord.svg" />
 </a>
 <a href="https://twitter.com/shivam_0088">
-  <img align="left" alt="Shivam Haldar | Twitter" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<img align="left" alt="Shivam Haldar | Twitter" width="24px" src="https://github.com/shivamhaldar/shivamhaldar/blob/main/image/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/shivamhaldar/">
-  <img align="left" alt="Shivam's LinkedIN" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<img align="left" alt="Shivam's LinkedIN" width="24px" src="https://github.com/shivamhaldar/shivamhaldar/blob/main/image/linkedin.svg" />
 </a>
 <a href="mailto:shivam.haldar@consultant.com">
-  <img align="left" alt="Shivam's Mail" width="24px" src="https://github.com/shivamhaldar/shivamhaldar/blob/main/image/mail.png"/>
+<img align="left" alt="Shivam's Mail" width="24px" src="https://github.com/shivamhaldar/shivamhaldar/blob/main/image/mail.png"/>
 </a>
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshivamhaldar&count_bg=%230090FF&title_bg=%23333333&icon=&icon_color=%23E7E7E7&title=Daily&edge_flat=false)
@@ -50,24 +50,25 @@
 
 ## ⚙️ Frontend
 <div align="center">   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="40" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="40" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="40" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" />   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="40" />  
- <!--
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="40" />  
+<img style="margin: 10px" src="https://github.com/shivamhaldar/shivamhaldar/blob/main/image/c-original.svg" alt="C" height="40" /> 
+<img style="margin: 10px" src="https://github.com/shivamhaldar/shivamhaldar/blob/main/image/cplusplus-original.svg" alt="C++" height="40" />  
+<img style="margin: 10px" src="https://github.com/shivamhaldar/shivamhaldar/blob/main/image/python-original.svg" alt="Python" height="40" />
+<img style="margin: 10px" src="https://github.com/shivamhaldar/shivamhaldar/blob/main/image/java-original-wordmark.svg" alt="Java" height="40" />  
+<img style="margin: 10px" src="https://github.com/shivamhaldar/shivamhaldar/blob/main/image/html5-original-wordmark.svg" alt="HTML5" height="40" />   
+<img style="margin: 10px" src="https://github.com/shivamhaldar/shivamhaldar/blob/main/image/css3-original-wordmark.svg" alt="CSS3" height="40" />  
+<img style="margin: 10px" src="https://github.com/shivamhaldar/shivamhaldar/blob/main/image/javascript-original.svg" alt="JavaScript" height="40" /> 
+<img style="margin: 10px" src="https://github.com/shivamhaldar/shivamhaldar/blob/main/image/git-scm-icon.svg" alt="Git" height="40" />  
+<img style="margin: 10px" src="https://github.com/shivamhaldar/shivamhaldar/blob/main/image/gitlab.svg" alt="GitLab" height="40" />  
+
+<!--
+<img style="margin: 10px" src="https://github.com/shivamhaldar/shivamhaldar/blob/main/image/flutterio-icon.svg" alt="Flutter" height="40" />  
 -->
 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="40" />  
+<img style="margin: 10px" src="https://github.com/shivamhaldar/shivamhaldar/blob/main/image/microsoft_azure-icon.svg" alt="Azure" height="40" />  
 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" />    
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="40" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="40" />  
+<img style="margin: 10px" src="https://github.com/shivamhaldar/shivamhaldar/blob/main/image/linux-original.svg" alt="Linux" height="40" />    
+<img style="margin: 10px" src="https://github.com/shivamhaldar/shivamhaldar/blob/main/image/lightroom.png" alt="Lightroom" height="40" />  
+<img style="margin: 10px" src="https://github.com/shivamhaldar/shivamhaldar/blob/main/image/adobexd.png" alt="Adobe XD" height="40" />  
 </div>
 
 ## 🛠️ Backend

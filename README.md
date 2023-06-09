@@ -72,9 +72,9 @@
 
 ## 🛠️ Backend
 <div align="center">  
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40" />  
+<img style="margin: 15px" src="https://github.com/shivamhaldar/shivamhaldar/blob/main/image/mysql-original-wordmark.svg" alt="MySQL" height="40" />  
 <img style="margin: 15px" src="https://github.com/shivamhaldar/shivamhaldar/blob/main/image/php.svg" alt="PHP" height="40" />  
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="40" />    
+<img style="margin: 15px" src="https://github.com/shivamhaldar/shivamhaldar/blob/main/image/xampp.png" alt="XAMPP" height="40" />    
 </div>
 
 ## 🔥 Badges
